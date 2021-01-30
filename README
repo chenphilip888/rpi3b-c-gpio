@@ -48,7 +48,7 @@ sudo apt-get update
 sudo apt-get upgrade
 sync
 sudo reboot
-sudo apt-get install python-dev python-pip python-setuptools python3-dev python3-pip python3-setuptools dnsutils apache2 vsftpd ftp i2c-tools
+sudo apt-get install python-dev python-pip python-setuptools python3-dev python3-pip python3-setuptools dnsutils apache2 vsftpd ftp i2c-tools git
 sudo i2cdetect -y 1
 
 Download gpio library on Raspberry PI 3B board:
